@@ -1,0 +1,11 @@
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\bin\Debug\GameM.exe.config
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\bin\Debug\GameM.exe
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\bin\Debug\GameM.pdb
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.csproj.AssemblyReference.cache
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.Properties.Resources.resources
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.csproj.GenerateResource.cache
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.csproj.CoreCompileInputs.cache
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.exe
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.pdb
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.frmMenu.resources
+C:\Users\Mirela Fatic\Desktop\myGame\GameM\GameM\obj\Debug\GameM.frmGame.resources
